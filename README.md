@@ -1,7 +1,7 @@
 # Sudoku Visualizer
 
 ```
-![Sudoku Visualizer GIF](sudoku_gif.mp4)
+![Sudoku Visualizer GIF](sudoku_gif.gif)
 ```
 
 Sudoku is a puzzle which can be quite complex to solve and that's why I have tried to solve it using a technique known as **Backtracking**.  
